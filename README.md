@@ -1,2 +1,2 @@
 # Seminar
-Lab seminar presentation materials.
+본 레퍼지토리는 [랩 세미나] 발표 자료로 쓰였던 자료들을 보관하고 있습니다.
